@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marykhodaparast
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning and working laravel and vuejs
+- 🌱 I’m currently learning and working Laravel and Vue.js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me => my email is "maryam.kh1374@gmail.com"
 
